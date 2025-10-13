@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up? I'm Saran(Mobile Develper<React Native/>)</h1>
+<h1 align="center">Hey 👋 What's Up? I'm Saran(Mobile Develper[React Native])</h1>
 
 ###
 
